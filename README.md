@@ -17,12 +17,12 @@ Put your maps in `saves/Map Changer/`, environments go there too, but make sure 
 
 /Map "SaveEnvMap" "map name" *Saves the current environment.*
 
-/Map "difficult/level/diff" *Sets the map difficulty, if needed one.*
+/Map "difficult/level/diff" *Sets the CURRENT map difficulty, if needed one.*
 
-/Map "size" *Sets the map size.*
+/Map "size" *Sets the CURRENT map size.*
 
-/Map "max/maxPlayers" "amount" *Requires # of players to play on this map.*
+/Map "max/maxPlayers" "amount" *Requires # of players to play on this map. Sets this on CURRENT map.*
 
-/Map "min/minPlayers" "amount" *Requires # of players to play on this map.*
+/Map "min/minPlayers" "amount" *Requires # of players to play on this map. Sets this on CURRENT map.*
 
 /Map "saveEdit" "map name" *Saves/overwrites a map in the map changer. Be careful with this.*
