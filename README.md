@@ -9,8 +9,8 @@ Put your maps in `saves/Map Changer/`, environments go there too, but make sure 
  
 /VoteMap *map name*
 **Admin**
-/Map "set/change" "map name" *Changes the map to whatever, if it exists*
-**Super Admin**
+/Map "set/change" "map name" *Changes the map to whatever, if it exists* 
+**Super Admin** \n
 /Map "SaveEnvMap" "map name" *Saves the current environment.*
 /Map "difficult/level/diff" *Sets the map difficulty, if needed one.*
 /Map "size" *Sets the map size.*
