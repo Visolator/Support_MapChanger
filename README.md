@@ -1,12 +1,12 @@
 # Blockland - Map Changer
 This makes loading maps a lot easier.
-
+ 
 ## Where do my maps go?
 Put your maps in `saves/Map Changer/`, environments go there too, but make sure they have the same exact name as the map
-
+ 
 ## Commands
 *> Note: Commands like "max/maxPlayers" is an option to pick either a command between the "/", do not fully type this*
-
+ 
 /VoteMap *map name*
 **Admin**
 /Map "set/change" "map name" *Changes the map to whatever, if it exists*
